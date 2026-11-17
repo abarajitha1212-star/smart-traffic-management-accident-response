@@ -1,0 +1,5 @@
+LANES = ["North", "East", "South", "West"]
+MIN_GREEN = 10
+MAX_GREEN = 40
+DENSITY_HIGH = 20
+DENSITY_MEDIUM = 10
